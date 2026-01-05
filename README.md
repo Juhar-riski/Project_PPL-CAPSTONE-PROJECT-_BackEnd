@@ -19,7 +19,6 @@
 - [Instalasi](#-instalasi)
 - [Menjalankan Aplikasi](#-menjalankan-aplikasi)
 - [Kontribusi](#-kontribusi)
-- [Tim Pengembang](#-tim-pengembang)
 - [Lisensi](#-lisensi)
 
 ---
