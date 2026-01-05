@@ -323,7 +323,7 @@ SOFTWARE.
 
 Jika Anda memiliki pertanyaan atau butuh bantuan:
 
-- **Email**: [email-anda@example.com](mailto:juharkades123@gmail.com)
+- **Email**: [Email Saya](mailto:juharkades123@gmail.com)
 - **GitHub Issues**: [Create an Issue](https://github.com/Juhar-riski/Project_PPL-CAPSTONE-PROJECT-_BackEnd/issues)
 
 ---
